@@ -44,4 +44,4 @@
 
 ---
 
-📫 **Связь со мной:** [Telegram](https://t.me/your_username) | [Email](mailto:your@email.com)
+📫 **Связь со мной:** [Telegram](https://t.me/ArZer0) | [Email](mailto:sakhiullinar@email.com)
