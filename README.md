@@ -40,7 +40,11 @@
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0000Artur0000&show_icons=true&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0000Artur0000&show_icons=true&theme=tokyonight&hide_border=true&locale=ru)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0000Artur0000&layout=compact&theme=tokyonight&hide_border=true&locale=ru)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=0000Artur0000&theme=tokyonight&hide_border=true&locale=ru)
 
 ---
 
