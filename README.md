@@ -44,7 +44,7 @@
 
 ![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=0000Artur0000&layout=compact&theme=tokyonight&hide_border=true&locale=ru)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=0000Artur0000&theme=tokyonight&hide_border=true&locale=ru)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=0000Artur0000&theme=tokyonight&hide_border=true&locale=ru)
 
 ---
 
