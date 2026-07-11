@@ -7,7 +7,7 @@
 Пишу backend на Java/Spring Boot. До этого 7+ лет держал собственные игровые серверные проекты —<br>
 Linux, MySQL/MariaDB, Docker, мониторинг и релизы под живым онлайном, до 200 игроков одновременно.
 
-Учусь в School 21 от Сбера — в отборочный интенсив прошёл с 1-м местом.
+Учусь в School 21 от Сбера.
 
 [![Telegram](https://img.shields.io/badge/Telegram-@ArZer0-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/ArZer0)
 [![Email](https://img.shields.io/badge/Email-0000artur0000@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:0000artur0000@gmail.com)
